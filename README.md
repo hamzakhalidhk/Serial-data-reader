@@ -55,8 +55,8 @@ The program now does string parsing to separate the values of voltage, current a
         
 The values of voltage, current and load are stored in variables v,c an p respectively and are then displayed on the software screen.
 
-# How to make changings for your custom data?
-You need to make two changes for your custom data:
+# How to make changings for personal data?
+You need to make two changes for own data:
 
 1. You need to change the arduino code which is sending data to COM port. 
 *Note that your source of sending data to the COM port can be anything so make changes accordingly.
