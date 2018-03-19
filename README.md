@@ -1,5 +1,5 @@
 # Serial Data Reader
-Serial data reader is basically a Python based software that reads COM port of your laptop and displays the data on its screen. The data used in this project is the values of current, voltage and power coming from a micro-controller (AVR or simply arduino). The software reads the values with the help of serial module of Python and displays it using Tkinker.
+Serial data reader is basically a Python based software that reads data coming to COM port and displays the it on your laptop screen. The data used in this project is the values of current, voltage and power coming from a micro-controller (AVR or simply arduino). The software reads the values with the help of serial module of Python and displays it using Tkinker.
 
 # How is the data coming to COM port?
 In this project Arduino UNO is used to send data to the COM port so it is easier to understand that how the data is coming to COM port for those who have worked with arduino or AVR. 
